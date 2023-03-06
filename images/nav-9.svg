@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110.94 57">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+      }
+
+      .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #262626;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        font-family: KozGoPr6N-Regular-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 13.13px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #262626;
+      }
+
+      .cls-6 {
+        font-family: Dreamcast, Dreamcast;
+      }
+
+      .cls-7 {
+        fill: #dac2a0;
+      }
+
+      .cls-8 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        font-size: 7px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.14em;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <rect class="cls-4" x="1" y="1" width="108.94" height="45.06"/>
+      <text class="cls-6" transform="translate(9.54 19.68)"><tspan class="cls-1"><tspan class="cls-8" x="0" y="0">T</tspan><tspan x="6.62" y="0">AI</tspan><tspan class="cls-10" x="20.15" y="0">W</tspan><tspan x="32.28" y="0">AN</tspan></tspan><tspan class="cls-9"><tspan x="0" y="8.4">TEA</tspan></tspan></text>
+      <text class="cls-5" transform="translate(33.87 35.56)"><tspan x="0" y="0">台灣</tspan></text>
+      <g>
+        <g>
+          <circle class="cls-7" cx="83.93" cy="24.15" r="17.5"/>
+          <circle class="cls-3" cx="83.93" cy="24.15" r="14"/>
+        </g>
+        <g>
+          <g>
+            <path class="cls-2" d="m82.2,28.43s2.08,2.11,5.57,3.26c3.14,1.04,4.11-.45,4.04-1.37-.3-3.86-8.07-3.98-8.07-3.98h-.23s-7.78.12-8.07,3.98c-.07.93.9,2.41,4.04,1.37,3.49-1.15,5.57-3.26,5.57-3.26"/>
+            <path class="cls-2" d="m79.33,24.63v-1.83c0-2.54,2.06-4.59,4.59-4.59s4.59,2.06,4.59,4.59v1.83"/>
+            <path class="cls-2" d="m79.33,23.99v.63c0,1.08-.87,1.95-1.95,1.95s-1.95-.87-1.95-1.95v-.63"/>
+            <path class="cls-2" d="m88.52,23.99v.63c0,1.08.87,1.95,1.95,1.95s1.95-.87,1.95-1.95v-.63"/>
+            <path class="cls-2" d="m86.05,16.23c0,1.09-.89,1.98-1.98,1.98s-1.98-.89-1.98-1.98.89-1.98,1.98-1.98,1.98.89,1.98,1.98Z"/>
+          </g>
+          <g>
+            <path class="cls-2" d="m83.93,24.67s.55-2.38,3.23-2.24c0,0-.28,2.29-3.23,2.24Z"/>
+            <path class="cls-2" d="m83.93,24.67s-.55-2.38-3.23-2.24c0,0,.28,2.29,3.23,2.24Z"/>
+            <path class="cls-2" d="m83.35,23.54c-.57-1.76.64-2.8.64-2.8.78,1.04.79,2,.59,2.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

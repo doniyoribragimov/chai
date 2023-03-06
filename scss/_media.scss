@@ -1,0 +1,299 @@
+@media(max-width: 1600px){
+    .container{
+        padding: 0 160px;
+    }
+
+    .bot{
+        right: 120px;
+        bottom: 40px;
+    }
+}
+
+@media(max-width: 1200px){
+    .container{
+        padding: 0 100px;
+    }
+
+    .main{
+        &__inner{
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+
+        &__tea{
+            &:nth-child(1){
+                left: 20px;
+            }
+            &:nth-child(2){
+                right: 20px;
+            }
+        }
+
+    }
+
+    .header{
+        &__menus{
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+    }
+
+    .intro{
+        display: flex;
+        flex-direction: column-reverse;
+        &__box{
+            height: 400px;
+        }
+
+        &__img{
+            right: 0;
+            top: 100px;
+            left: unset;
+        }
+
+        .title{
+            padding-right: 80px;
+        }
+
+        .text{
+            width: 60%;
+            display: inline-block;
+        }
+
+        &__vids{
+            iframe{
+                height: 400px;
+            }
+        }
+
+        &__pink{
+            right: 0;
+        }
+    }
+
+    .types{
+        &__link{
+            padding:20px 0 ;
+            &:hover{
+                padding: 20px;
+            }
+        }
+
+        &__name{
+            font-size: 30px;
+        }
+
+        &__img{
+            z-index: 999;
+            height: 250px;
+            width: 150px;
+            right: 25%;
+        }
+    }
+
+    .popular{
+        &__arrow{
+            z-index: 99;
+            padding: 15px;
+            top: unset;
+            transform: translateY(0);
+            bottom: -40px;
+        }
+        &__prev{
+            left: 0;
+        }
+
+        &__next{
+            right: 20px;
+        }
+
+        .slick-slide{
+            margin-left: 0;
+            margin-right: 0;
+        }
+    }
+
+    .cards{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bot{
+        right: 120px;
+    }
+
+    .footer{
+        &__inner{
+            grid-template-columns: 1fr;
+            gap: 30px;
+            padding-top: 120px;
+        }
+
+        &__data{
+            grid-template-columns: 1fr;
+            gap: 30px;
+        }
+        &__discount{
+            right: 0px;
+            top: -100px;
+            height: 150px;
+            width: 150px;
+        }
+
+       
+    }
+}
+
+@media(max-width: 768px){
+    .container{
+        padding: 0 60px;
+    }
+
+    .bot{
+        right: 40px;
+        bottom: 30px;
+    }
+
+    .logo{
+        width: 200px;
+        height: 70px;
+    }
+}
+
+@media(max-width: 620px){
+    .container{
+        padding: 0 20px;
+    }
+
+    .header{
+        &__top{
+            justify-content: space-between;
+            padding: 10px 20px;
+            gap: 10px;
+            font-size: 14px;
+        }
+
+        &__hide{
+            display: none;
+        }
+
+        &__inner{
+            align-items: center;
+            padding-top: 30px;
+        }
+
+        &__btn{
+            display: flex;
+        }
+
+        .logo{
+            margin-top: -20px;
+        }
+    }
+
+    .main{
+        &__tea{
+            display: none;
+        }
+
+        &__img{
+            height: 300px;
+        }
+
+    }
+
+    .types{
+        &__img{
+            display: none;
+        }   
+    }
+
+    .intro{
+        margin: 30px 0;
+        &__vids{
+            display: none;
+        }
+
+      .text{
+        display: none;
+      }
+
+      &__info{
+        &_border,
+        &_borderright{
+            display: none;
+        }
+      }
+
+      &__arrow, &__pink, &__human{
+        display: none;
+      }
+
+      &__box{
+        height: 300px;
+      }
+    }
+
+    .main{
+        .down{
+            display: block;
+        }
+    }
+
+    .link{
+        font-size: 12px;
+    }
+
+    .popular{
+        padding-bottom: 40px;
+        .title {
+            position: relative;
+            padding-right: 90px;
+            img{
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+        }
+    }
+
+    .cards{
+        &__img{
+            height: 300px;
+        }
+
+        &__badge{
+            display: none;
+        }
+    }
+
+    .footer{
+        &__top{
+            flex-direction: column;
+        }
+
+        &__rules{
+            flex-wrap: wrap;
+        }
+    }
+
+    .title{
+        font-size: 30px;
+        &_circle{
+            padding-left: 30px;
+        }
+
+    }
+
+    .types{
+        &__link{
+            flex-direction: column;
+        }
+    }
+    
+
+    .bot{
+        right: 0px;
+        bottom: 0px;
+    }
+}

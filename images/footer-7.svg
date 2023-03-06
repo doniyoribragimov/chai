@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #262626;
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        fill: #d7da93;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g>
+        <circle class="cls-3" cx="17.5" cy="17.5" r="17.5"/>
+        <circle class="cls-1" cx="17.5" cy="17.5" r="14"/>
+      </g>
+      <g>
+        <g>
+          <path class="cls-2" d="m17.5,25.94s-6.89.6-7.24-5.77c-.35-6.37,7.37-6.32,7.24-13.36v19.14Z"/>
+          <path class="cls-2" d="m10.34,20.95c0,2.18,7.34,1.95,7.16,4.98"/>
+          <path class="cls-2" d="m10.59,17.67c0,3.28,7.08,1.95,6.9,4.98"/>
+          <path class="cls-2" d="m12.25,15.17c-1.08,2.49,5.25,1.63,5.25,4.42"/>
+          <path class="cls-2" d="m14.64,12.97s-.69,1.17.3,1.64c1,.47,2.57.83,2.56,1.76"/>
+        </g>
+        <g>
+          <path class="cls-2" d="m17.5,25.94s6.9.6,7.24-5.77c.35-6.37-7.37-6.32-7.24-13.36"/>
+          <path class="cls-2" d="m24.66,20.95c0,2.18-7.34,1.95-7.16,4.98"/>
+          <path class="cls-2" d="m24.41,17.67c0,3.28-7.08,1.95-6.9,4.98"/>
+          <path class="cls-2" d="m22.75,15.17c1.08,2.49-5.25,1.63-5.25,4.42"/>
+          <path class="cls-2" d="m20.36,12.97s.69,1.17-.3,1.64c-1,.47-2.57.83-2.56,1.76"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

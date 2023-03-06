@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.62 57">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+      }
+
+      .cls-2 {
+        stroke-width: .5px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #262626;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-width: .75px;
+      }
+
+      .cls-5 {
+        font-family: KozGoPr6N-Regular-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 13.13px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #262626;
+      }
+
+      .cls-6 {
+        font-family: Dreamcast, Dreamcast;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        font-size: 7px;
+      }
+
+      .cls-8 {
+        fill: #d7da93;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g>
+        <rect class="cls-4" x="1" y="1" width="146.62" height="45.06"/>
+        <text class="cls-6" transform="translate(11.82 19.68)"><tspan class="cls-1"><tspan x="0" y="0">SHENG PUERH</tspan></tspan><tspan class="cls-7"><tspan x="0" y="8.4" xml:space="preserve"> TEA</tspan></tspan></text>
+        <text class="cls-5" transform="translate(60.55 35.56)"><tspan x="0" y="0">生普洱</tspan></text>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-8" cx="121.13" cy="24.21" r="17.5"/>
+          <circle class="cls-2" cx="121.13" cy="24.21" r="14"/>
+        </g>
+        <g>
+          <g>
+            <path class="cls-3" d="m121.12,32.65s-6.89.6-7.24-5.77c-.35-6.37,7.37-6.32,7.24-13.36v19.14Z"/>
+            <path class="cls-3" d="m113.96,27.67c0,2.18,7.34,1.95,7.16,4.98"/>
+            <path class="cls-3" d="m114.22,24.38c0,3.28,7.08,1.95,6.9,4.98"/>
+            <path class="cls-3" d="m115.87,21.89c-1.08,2.49,5.25,1.63,5.25,4.42"/>
+            <path class="cls-3" d="m118.26,19.68s-.69,1.17.3,1.64c1,.47,2.57.83,2.56,1.76"/>
+          </g>
+          <g>
+            <path class="cls-3" d="m121.13,32.65s6.9.6,7.24-5.77c.35-6.37-7.37-6.32-7.24-13.36"/>
+            <path class="cls-3" d="m128.29,27.67c0,2.18-7.34,1.95-7.16,4.98"/>
+            <path class="cls-3" d="m128.03,24.38c0,3.28-7.08,1.95-6.9,4.98"/>
+            <path class="cls-3" d="m126.38,21.89c1.08,2.49-5.25,1.63-5.25,4.42"/>
+            <path class="cls-3" d="m123.99,19.68s.69,1.17-.3,1.64c-1,.47-2.57.83-2.56,1.76"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
